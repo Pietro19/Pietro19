@@ -1,6 +1,10 @@
-## 👋 Olá! Eu sou o Pietro de Souza
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=%F0%9F%91%8B+Ol%C3%A1%2C+eu+sou+Pietro+de+Souza;QA+Automation+Engineer+%F0%9F%A7%AA;Especialista+em+Cypress+%7C+Playwright+%7C+Postman;Testes+E2E+%7C+API+Testing+%7C+CI%2FCD;Qualidade+de+Software+%F0%9F%9A%80" />
+</p>
 
-🧪 QA Automation Engineer | Testes E2E | API Testing | Qualidade de Software  
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Pietro19&show_icons=true&theme=chartreuse-dark&hide_border=true"/> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pietro19&theme=chartreuse-dark&hide_border=true"/> </p>
+
+### 🧪 QA Automation Engineer | Testes E2E | API Testing | Qualidade de Software  
 
 Focado em automação de testes, qualidade de software e melhoria contínua de aplicações web.  
 Experiência com testes End-to-End, testes de API e integração contínua utilizando ferramentas modernas de QA.
