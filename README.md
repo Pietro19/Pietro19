@@ -4,6 +4,8 @@
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Pietro19&show_icons=true&theme=chartreuse-dark&hide_border=true"/> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pietro19&theme=chartreuse-dark&hide_border=true"/> </p>
 
+<p align="center"> <img src="https://raw.githubusercontent.com/Pietro19/Pietro19/output/github-contribution-grid-snake-dark.svg"/> </p>
+
 ### 🧪 QA Automation Engineer | Testes E2E | API Testing | Qualidade de Software  
 
 Focado em automação de testes, qualidade de software e melhoria contínua de aplicações web.  
