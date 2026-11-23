@@ -11,6 +11,8 @@
 
 ### 🧪 QA Automation Engineer | Testes E2E | CI/CD | Qualidade de Software  
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conecte--se_comigo-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pietro-de-souza-cardoso-1b2333224/)
+
 Focado em automação de testes, qualidade de software e melhoria contínua de aplicações web.  
 Experiência com testes End-to-End em **Cypress** e **Playwright** rodando em pipelines de **CI/CD no GitHub Actions**, contra aplicações reais.
 
@@ -68,3 +70,9 @@ Experiência com testes End-to-End em **Cypress** e **Playwright** rodando em pi
 ## 🎯 Objetivo Profissional
 
 Atuar como QA Automation Engineer contribuindo para a qualidade de software através de testes automatizados, integração contínua e boas práticas de engenharia de qualidade.
+
+---
+
+## 📬 Contato
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Pietro_de_Souza_Cardoso-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pietro-de-souza-cardoso-1b2333224/)
